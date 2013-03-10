@@ -1,0 +1,11 @@
+{
+	"name" : "font-size-manager",
+	"version" : "1.0.0",
+	"main" : [
+		"./dist/font-size-manager.js", 
+		"./dist/font-size-manager.min.js"
+	],
+	"dependencies" : {
+		"jquery" : null
+	}
+}
