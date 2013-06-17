@@ -6,6 +6,6 @@
 		"./dist/font-size-manager.min.js"
 	],
 	"dependencies" : {
-		"jquery" : null
+		"jquery" : "*"
 	}
 }
